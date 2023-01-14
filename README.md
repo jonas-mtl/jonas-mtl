@@ -1,10 +1,17 @@
+<img alt='wallpaper' src='./src/images/wallpaper.webp' width='250px' align="left">
+
 # Hey There, I'm Jonas!
 
-![Discord Presence](https://lanyard.cnrad.dev/api/783252406753689601)
+<br/>
+» Currently learning **C++**
+<br/>
+» Working with **JavaScript, TypeScript, HTML, Svelte and CSS**
+<br/>
+» Reach me through **Discord | Jonas#1713**
 
 ---
 
-
+![Discord Presence](https://lanyard.cnrad.dev/api/783252406753689601)
 
 ---
 
