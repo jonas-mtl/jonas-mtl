@@ -1,4 +1,10 @@
+# Hey There, I'm Jonas!
+
 ![Discord Presence](https://lanyard.cnrad.dev/api/783252406753689601)
+
+---
+
+
 
 ---
 
