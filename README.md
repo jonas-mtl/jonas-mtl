@@ -2,8 +2,9 @@
 
 # Hey There, I'm Jonas!
 
-<br/>
 » Currently learning **C++**
+<br/>
+» My lastest project [**Discord TypeScript Handler**](https://github.com/jonas-mtl/Discord.js-v14-Advanced-TypeScript-Handler)
 <br/>
 » Working with **JavaScript, TypeScript, HTML, Svelte and CSS**
 <br/>
