@@ -4,7 +4,7 @@
 
 » Currently learning **C++**
 <br/>
-» My lastest project [**Skinify**](https://github.com/jonas-mtl/Skinify)
+» My lastest project [**Valups**](https://github.com/jonas-mtl/Valups)
 <br/>
 » Working with **JavaScript, TypeScript, HTML, Svelte and CSS**
 <br/>
